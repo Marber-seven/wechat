@@ -1,5 +1,5 @@
 {
-    "name": "Marber-seven/wechat",
+    "name": "marber-seven/wechat",
     "description": "Coroutine safety WeChat library",
     "keywords": [
         "swoole",
